@@ -1,16 +1,16 @@
 {
   "name": "sass-component",
   "description": "Sass Component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/sass-component.git"
+    "url": "https://github.com/ellipticaljs/sass-component.git"
   },
   "dependencies": {
-    "sass-functions": "git+https://github.com/tachyon1337/sass-functions.git",
-    "sass-media-query": "git+https://github.com/tachyon1337/sass-media-query.git"
+    "sass-functions": "git+https://github.com/ellipticaljs/sass-functions.git",
+    "sass-media-query": "git+https://github.com/ellipticaljs/sass-media-query.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
