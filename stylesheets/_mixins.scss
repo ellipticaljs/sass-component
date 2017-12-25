@@ -289,12 +289,17 @@ $include-component-text-shadow: false !default;
   }
   &::-moz-placeholder {
     color: $color !important;
+    opacity:1;
   }
   &::-o-placeholder {
     color: $color !important;
   }
   &:-ms-input-placeholder {
     color: $color !important;
+  }
+  &::placeholder{
+    color: $color !important;
+    opacity:1;
   }
 }
 
